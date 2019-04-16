@@ -1,4 +1,4 @@
-FROM frkhit/docker-spark-cluster-base:2.4.0
+FROM frkhit/docker-spark-cluster-base:latest
 
 COPY start-master.sh /
 
